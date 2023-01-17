@@ -1,0 +1,17 @@
+.gradle
+.idea
+*.yaml
+*.html
+settings.gradle
+main/
+gradlew.bat
+gradlew
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+build.gradle
+.gitattributes
+*.kotlin_module
+*.class
+/Simple Tic-Tac-Toe/task/build/kotlin/
+*test
+/Simple Tic-Tac-Toe/task/build/tmp/compileTestJava/previous-compilation-data.bin
